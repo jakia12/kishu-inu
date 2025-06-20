@@ -26,10 +26,11 @@
   .elementor-element.elementor-element-0428a87
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("./images/hero.png");
-  background-position: bottom center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-image: url("./images/hero.png");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding-top: 5%; */
 }
 .elementor-6 .elementor-element.elementor-element-837bbf6 {
   --display: flex;
@@ -43,6 +44,7 @@
   --flex-wrap-mobile: wrap;
   --justify-content: flex-start;
   --align-items: center;
+  margin-top: -15%;
 }
 .elementor-widget-image .widget-image-caption {
   color: var(--e-global-color-text);
@@ -502,7 +504,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
-    url("https://shibainusfather.meme/wp-content/uploads/2025/06/templeback.png");
+    url("./images/baackcd.png");
   background-position: bottom center;
   background-size: cover;
 }
@@ -803,6 +805,7 @@
   background-image: url("./images/footer.png");
   background-position: bottom center;
   background-size: cover;
+  height: 150vh;
 }
 .elementor-6
   .elementor-element.elementor-element-717e9a9
